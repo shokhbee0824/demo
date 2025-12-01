@@ -1,0 +1,8 @@
+{
+  "name": "EcoCoin.uz",
+  "description": "Axlat = EcoCoin = Pul. Sun'iy intellekt yordamida chiqindilarni tahlil qiling va daromad toping.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
